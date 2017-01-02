@@ -3,7 +3,7 @@
 Lensico is a Instagram Client for Android. It uses a very intuitive navigation by creating a so called Tab for every user the app-user follows.
 
 ## Usage
-The App is currently in development. This means there can be bugs, problems or unexpected explosions. **I am not responsible for your dead cat!**
+The App is currently **NOT** in development. This means there can be bugs, problems or unexpected explosions. **I am not responsible for your dead cat!**
 
 ## Contributing
 1. Fork it!
